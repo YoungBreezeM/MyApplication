@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+      xmlns:tools="http://schemas.android.com/tools"
+      tools:showIn="navigation_view">
+
+
+    <item android:title="设置">
+        <menu>
+            <item
+                    android:id="@+id/nav_connect"
+                    android:icon="@drawable/ic_cast_connected"
+                    android:title="连接"/>
+        </menu>
+    </item>
+
+</menu>
